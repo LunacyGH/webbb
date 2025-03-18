@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/web/getAllProducts.jsp</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/web/newcategory.jsp</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/web/createProduct.jsp</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/web/getFeaturedProducts.jsp</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/src/java/model/dao/Accessible.java</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/src/java/controller/activeController.java</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/src/java/controller/deleteCategoryController.java</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/src/java/controller/loginController.java</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/src/java/controller/listAllAccountController.java</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/web/listaccount.jsp</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/src/java/controller/listCategoryController.java</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/src/java/controller/TrackViewedProducts.java</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/src/java/controller/listProductController.java</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/web/index.html</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/src/java/model/Category.java</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/src/java/controller/UserIncomeSegment.java</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/src/java/model/dao/AccountDAO.java</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/web/login.jsp</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/web/search.jsp</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/web/META-INF/context.xml</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/src/java/model/dao/ProductDAO.java</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/src/java/controller/deleteProductController.java</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/web/addaccount.jsp</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/web/updateProduct.jsp</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/src/java/controller/createAccountController.java</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/src/java/controller/deleteAccountController.java</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/src/java/controller/createProductController.java</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/src/java/filter/AuthFilter.java</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/src/java/model/Account.java</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/src/java/controller/newCategoryController.java</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/web/productdetail.jsp</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/src/java/utilities/DBUtils.java</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/web/filterProducts.jsp</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/src/java/filter/SingleSessionAuth.java</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/web/updatecategory.jsp</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/src/java/model/dao/CategoryDAO.java</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/src/java/controller/updateCategoryController.java</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/src/java/model/Product.java</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/web/listproducts.jsp</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/web/productportfolio.jsp</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/src/java/controller/updateProductController.java</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/src/java/controller/updateAccountController.java</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/web/listcategory.jsp</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/src/java/controller/productdetailController.java</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/web/WEB-INF/web.xml</file>
+            <file>file:/D:/prj301/SE1831_NguyenBaTuanAnh_SE190905_Workshop01/web/updateaccount.jsp</file>
+        </group>
+    </open-files>
+</project-private>
